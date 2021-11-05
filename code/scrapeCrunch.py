@@ -145,7 +145,7 @@ class CrunchbaseScraper:
             pass
 
 #open csv file to links
-with open('/home/tbert/Documents/Job search/Eutopia/linkseutopia.csv', 'rt') as links_csv:
+with open('./linkseutopia.csv', 'rt') as links_csv:
     for linky in links_csv:
         scrape1 = CrunchbaseScraper()
         #scrape1.link = "https://www.crunchbase.com/organization/climeon"
