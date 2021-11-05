@@ -1,2 +1,0 @@
-# scrapecrunch
-scrape crunchbase
