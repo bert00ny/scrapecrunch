@@ -18,7 +18,7 @@ the logo of the company and saves it as a .png files as bellow:
 | Machinery Manufacturing |
 
 | Legal Name | Email | Phone #  | 
-| --- | --- | --- | --- |--- |--- |---|
+| --- | --- | --- |
 | 4M Carbon Fiber Corp. | info@4mio.com | (865) 444-6789 |
 
 | Social Media |
